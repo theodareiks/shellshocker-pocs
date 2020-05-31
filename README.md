@@ -1,6 +1,9 @@
 Shellshocker - Repository of "Shellshock" Proof of Concept Code
 =================
 
+
+## Update by Theodareiks for Python3
+
 Collection of Proof of Concepts and Potential Targets for #ShellShocker
 
 Wikipedia Link: https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29#CVE-2014-7186_and_CVE-2014-7187_Details
